@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @himanshu1929
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning about various courses on object oriented programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my email :- rohithimanshu29@gmail.com
 
 <!---
