@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @himanshu1929
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning about various courses on object oriented programming
-- 📫 How to reach me ... my email :- rohithimanshu29@gmail.com
+👋 Hello there, I’m Himanshu (@himanshu1929)
+
+🚀 Embarking on a journey to master full-stack development and craft real-time, impactful projects.
+
+📧 Let's connect: rohithimanshu29@gmail.com
+
+🔗 LinkedIn: Connect with me
+
+💻 Tech stack: HTML, CSS, Tailwind CSS, React.js, Node.js
 
 <!---
 himanshu1929/himanshu1929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
