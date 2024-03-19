@@ -6,7 +6,7 @@
 
 🔗 LinkedIn: Connect with me https://www.linkedin.com/in/himanshurohit/
 
-💻 Tech stack: HTML, CSS, JavaScript, Tailwind CSS, React.js, Redux, Firebase, TypeScript
+💻 Tech stack: HTML, CSS, JavaScript, Tailwind CSS, React.js, TypeScript, Next.js, Redux, Firebase. 
 
 <!---
 himanshu1929/himanshu1929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
